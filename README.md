@@ -8,7 +8,7 @@ by mikanwolfe, mikanwolfe@nekox.net
 
 ---
 
-Any reference to *Wolfe* refers to *Mikan*wolfe. Any reference to "LFS" now refers to Nekox.
+Any reference to *Wolfe* refers to *Mikan*wolfe. Any reference to "LFS" or "LMC" now refers to Nekox.
 
 ---
 
@@ -33,6 +33,8 @@ Other features Include:
 Of course there will be other improvements coming along though remaking a game that took 2~3 years again from scratch will take quite some time.
 
 -- *A young Mikanwolfe, circa late 2014*
+
+And yes, this entire repository, sans the readme, was written in Notepad (Windows) and eventually, Notepad++. Turns out a Text Editor's all you need.
 
 ---
 
