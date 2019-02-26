@@ -1,0 +1,191 @@
+
+
+                   _  _     __   __         __    __        _  _    __
+         /   /  \ / \/ \ \ /  \ /  \ /  \  /_  /  /  \_/   / \/ \  /
+         \__ \__/ \    / / \  / \__/ \__/ __/  \  \   /    \    /  \__
+
+                          LuminousityMC Studios
+
+                       Text Guide for Soulstream 1.1
+
+
+
+::=================------------------------------==GUIDE==
+
+There may be a lot of bugs which i haven't found yet, plaese be wary of that.
+Please note, this program was made in CMD, meaning that the visuals and the input method is not the best. okay?
+Also note, if you do not want to crash the game, please do NOT imput spaces, this is not my fault. CMD does not like spaces.
+
+::----------------------::
+LMC Soulstream is a 2 player turn-based pvp
+I' not sure if i will release this game as open-source, but i don't think i will.
+where one player plays as a plus and the other a minus.
+
+You have to beat the enemy to win.
+
+You both start with 100HP, 100EP and 0 DEF, where HP is your HEALTH POINTS, EP is your ENERGY POINTS (or mana) and DEF is your defence
+
+After you both enter your names, the system will randomly choose either the plus or minus to go first. THIS IS A 50/50 CHANCE, so don't blame me if your friend gets 8 in a row.
+
+Note that if you do not enter anything for a name, the default name will be used. Plusie and Minim respectively.
+
+This game is REALLY strategic, or it could be based on luck, i'm not so sure. (i can't beat my friends, even though i made the game, OR, i'm good but they're luckier.)
+
+Oh, and the skills that drain your own HP will kill you if it drops under 0. (regardless of how much hp you have)
+
+Thanks.
+
+LuminousityMC
+
+:-----------------------::
+
+Soulstream Quickstart Guide
+
+Best tactic to stay alive in the first battles?
+
+Attack + hope for crits :P
+
+Heal - don't forget about that
+
+Fusion - hope for a good roll
+
+Rest - You'll need that energy, won't you?
+
+If you type in your name (case sensitive), you can see your stats and avaliable skills.
+
+To input/use skills, type in the skill name.
+for example:
+to use attack
+type in "attack" (without the quotations) and then press enter.
+
+Remeber that you don't have to use the same tactic all the time.
+
+Make sure to rank up your skills in the shop! F - A, 9 - 0!
+
+To use the last move, just press enter without typing in anything.
+
+When you win/lose, you get:
+
+Win:  200 Base Gold + (TotaldamageOverTheBattle / 5)
+      40  Base EXP  + (TotaldamageOverTheBattle / 5)
+Lose: 100 Base Gold + (TotaldamageOverTheBattle / 5)
+      75  Base EXP  + (TotaldamageOverTheBattle / 5)
+
+Remember that you can upgrade your defence, improve your skils and spend EXP on classes.
+
+Good Luck :)
+
+If you have any suggestions or reccomendations, please email me at prozwol2012@hotmail.com.
+
+This game is free-to-play but will not be open source. i may release the source code later on though. (good luck sorting it out if i do)
+
+:-----------------------::
+CLASSES AND DESCRIPTIONS
+
+Normal:
+A Normal adventurer, with magic and melee skills, you're a force to be reckoned with.
+ATT: 1 Defpen: 0.5
+DEF: 1 BASE HEALTH:100 Defrate:1.5  
+ENG: 1 BASE ENERGY: 100
+Skills:
+-Healmin  :   -EP   +HP   
+-Healmid  :   -EP   +HP   
+-Healmax  :  --EP  ++HP   
+-Attack   :   +AT
+-Rest     :   +EN
+-Fusion   :   -HP   -EP  ++AT
+
+Locked Skills
+
+-Sokatsui :  --EN  ++ATT COOLDOWN 1
+-Lightning:  --EN  ++ATT 
+-Getsuga  : ---EN +++ATT COOLDOWN 2
+-Hdrain   :  --EN    +HP   +AT COOLDOWN 1
+
+
+Skill Ranks
+
+Base Damage * SkillrankPercentage
+
+Not learnt 0%
+Novice 40%
+F 50%
+E 60%
+D 70%
+C 80%
+B 90%
+A 100%
+9 110%
+8 120%
+7 140%
+6 160%
+5 180%
+4 200%
+3 240%
+2 280%
+1 340%
+0 400%
+
+
+Activated Blessings:
+
+Eweca:
+[Energy Class]
+
+Blessed with the energy of Eweca, you now have mythical magic abilities,
+Overwhelming anyone who gets in your way, you are a descendant of Eweca.
+[Difference] The difference between Eweca and other classes is their power to keep going.
+- They are able to keep going and keep on throwing huge attacks at no stop.
+[Technical] Eweca attacks cost a lot less energy than the damage, unlike all the other classes.
+- this gives the eweca class to be able to hugely damage anything with little effort
+
+ATT: 2 Defpen: 0.4 Deflimit: 40
+DEF: 1 BASE HEALTH: 150 Defrate:1.0 MAX HEALTH: 2500
+ENG: 3 BASE ENERGY: 300 MAX ENERGY: 6000
+Skills:
+1. Ice Spear  :  --EN  ++AT 
+2. Heal       :   -EN   +HP 
+3. M. Sheild  :   -EN   +DF  +HP
+4. Holy Arrow : ---EN   +++AT COOLDOWN 3
+U. Genesis    : ---EN  --HP ++++AT
+
+::--
+
+
+Laceda:
+[Attack Class]
+
+Given the strength of Laceda, you now have outstanding attack power.
+Destroying anything that tries to get in the way, you have the birthright to Laceda.
+[Difference] The difference between Laceda and other classes is Laceda's alility to stay constant.
+- this means that laceda will do almost constant damage, constant huge damage.
+[Technical] Though Laceda drains little energy compared to other classes, the energy recharge rate for laceda is slow
+- this means that this class is the opposite of eweca and must used co-ordinated attacks.
+ATT: 3 Defpen: 0.2 Deflimit: 30
+DEF: 2 BASE HEALTH: 200 Defrate:2.0 MAX HEALTH: 3000
+ENG: 1 BASE ENERGY: 50 MAX ENERGY: 1500
+Skills:
+1. Lunar Cero     :   -EN  ++AT
+2. Lunar Bradish  :  --EN   -HP +++AT
+3. M. Sheild      :   -EN   +DF
+4. Laceda Blossom : ---EN   +HP  ++AT
+U. Laceda Blade   : ---EN ---HP ---DF ++++AT
+
+::--
+
+Falias:
+[Defence Class]
+
+Bestowed with the force of Falias, you know have superior defence capabilities.
+Avenging Falias herself, nothing can stop such a force. You are the true heir to Falias.
+[Difference] Huge defence, huge health, low attack, this means that Falias is the ultimate survivor
+[Technical] Huge defrate, minimal def peneratration, not just anyone can beat a failias.
+ATT: 1 Defpen: 0.2 Deflimit: 50 
+DEF: 3 BASE HEALTH: 300 Defrate:3.0 MAX HEALTH: 5000
+ENG: 2 BASE ENERGY: 100 MAX ENERGY: 2000
+Skills:
+1. Smash        :   -EN    +AT
+2. F. Heal      :   -EN   ++HL
+3. F. Shield    :   -EN   ++DF   +HP
+4. Light Bradish:  --EN   --HP +++AT
+U. Falias'Wrath :  --EN  ---HP ---DF ++++AT

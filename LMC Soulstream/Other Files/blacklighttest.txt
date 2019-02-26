@@ -1,0 +1,4972 @@
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 7680 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 17920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 23040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = OVERKILL! - 97280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = FATAL! - 1760 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = GODLY! - 3840 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = CRITICAL! - 1200 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -120 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = CRITICAL! - 720 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = ANNIHILATION! - 194560 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = OVERKILL! - 48640 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = CRITICAL! - 1520 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = GODLY! - 12800 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -280 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -520 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = DEADLY! - 3840 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = FATAL! - 1920 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -360 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -360 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = CRITICAL! - 240 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = DEADLY! - 1280 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = GODLY! - 12160 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = CRITICAL! - 240 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -520 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = FATAL! - 1760 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -680 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = DEADLY! - 3520 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = DEADLY! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 12160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 20480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 10880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 6080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 12160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 16640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 15360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 12800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 7680 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 14080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 6080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 3840 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 12800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 4480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 11520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 8320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 24320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 4480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 3840 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 12800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3840 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 11520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 14080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 6400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 6080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 6400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 10880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = ANNIHILATION! - 102400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 10240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3840 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 7680 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 11520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = OVERKILL! - 76800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3840 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 8320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 10880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 11520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 6400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 11520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 21760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 14080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 3840 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 12160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 6080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3840 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 3840 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 10240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3840 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 11520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 7680 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 12160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 6400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3840 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 12160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 8960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 9600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 12800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 10880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = OVERKILL! - 20480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = OVERKILL! - 66560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 24320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 8960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 8960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 14080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 20480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 7040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 10240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 7040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 17920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 20480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 6400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = OVERKILL! - 30720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 6080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 6400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 21760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 5760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3840 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 9600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 25600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 12800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 24320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 7680 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 20480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 12160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 6400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 4480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 8320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 11520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 8960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = OVERKILL! - 56320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 10880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 4480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 6400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 23040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 24320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 15360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 3840 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 10240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = ANNIHILATION! - 143360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = OVERKILL! - 87040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 8320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 6400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 5760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 15360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 20480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 12800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 6400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 6400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 12800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 15360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3840 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 8960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = OVERKILL! - 66560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 17920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 15360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 3520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 9600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 8320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 10240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 4480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 2880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 8960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 20480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 15360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 6400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = OVERKILL! - 102400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 24320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 19200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = OVERKILL! - 102400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1920 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2240 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -320 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 6080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1600 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1200 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 21760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2400 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 10880 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 3040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = DEADLY! - 5760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 14080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 11520 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 800 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1360 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 6080 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5120 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 2560 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 5760 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = GODLY! - 23040 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = FATAL! - 4160 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -720 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1440 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -640 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -960 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 1280 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = CRITICAL! - 480 
+ 
+skill-multiplier = 80 
+ 
+skill-damage = HEALTH -880 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 180 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = OVERKILL! - 4480 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 80 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -80 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 240 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -100 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = GODLY! - 2880 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -30 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 100 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = FATAL! - 720 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -160 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = FATAL! - 520 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -60 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -110 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -60 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -90 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = DEADLY! - 1360 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 340 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -100 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 200 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -160 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 280 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -110 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 120 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = DEADLY! - 1200 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 320 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 280 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = FATAL! - 160 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = FATAL! - 200 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -150 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -170 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = GODLY! - 2400 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 360 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = DEADLY! - 1120 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -140 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = GODLY! - 1120 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -190 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = HEALTH -120 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = INCINERATION! - 51200 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 360 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = FATAL! - 640 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 300 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = CRITICAL! - 140 
+ 
+skill-multiplier = 10 
+ 
+skill-damage = FATAL! - 320 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = FATAL! - 2080 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = GODLY! - 8960 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -600 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = GODLY! - 3840 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -360 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = HEALTH -240 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = FATAL! - 1280 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = FATAL! - 1440 
+ 
+skill-multiplier = 40 
+ 
+skill-damage = FATAL! - 3200 
+ 

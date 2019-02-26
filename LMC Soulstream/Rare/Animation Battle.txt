@@ -1,0 +1,286 @@
+Everything is CPU based.
+Can't cheat :P
+May by glitches
+::----------------------::
+Animation battle is a 2 player pvp
+where one player plays as a plus and the other a minus.
+
+You have to beat the enemy to win.
+
+You both start with 100HP and 100EP where HP is your HEALTH POINTS and EP is your ENERGY POINTS (or mana)
+
+After you both enter your names, the system will randomly choose either the plus or minus to go first. THIS IS A 50/50 CHANCE, so don't blame me if your friend gets 8 firsts in a row.
+
+This game is REALLY strategic. (i can't beat the my friends, even though i made the game!!!)
+
+This game is STILL IN PROGESS
+
+Oh, and the skills that drain HP will kill you if it drops under 0.
+
+This CheatSheet will be updated constantly.
+
+Have fun :)
+
+Thanks.
+
+LuminousityMC, Prozwolf
+
+:-----------------------::
+
+
+
+ANIMATION BATTLE SKILLS
+Both players have the same skills.
+
+Summary:
+(NO CAPS, Caps for design only.)
+
+    +=======+
+    |Attack |
+    |Rest   |
+    |Healmin|
+    |Healmid|
+    |Healmax|
+    |ENdrain|
+    |Ebolt  |
+    |Getsuga|
+    |Hdrain |
+    |Fusion |
+    |Ebless |
+    +=======+
+
+Desciptions:
+
+::------------------------::
+
+Normal Attack
+
+A Normal attack
+
+Self Effects:
+
+E 
+H
+
+Enemy Effects:
+
+E
+H - 10
+
+Input:
+
+attack
+
+::------------------------::
+
+Rest
+
+Restore's the player's energy by 20 points
+
+Self Effects:
+
+E +20
+H
+
+Enemy Effects:
+
+E
+H 
+
+Input:
+
+rest
+
+::------------------------::
+
+Heal (MIN)
+
+Restore's the player's health by draining energy
+
+Self Effects:
+
+E -10
+H +20
+
+Enemy Effects:
+
+E
+H 
+
+Input:
+
+healmin
+
+::------------------------::
+
+Heal (MID)
+
+Restore's the player's health by draining energy
+
+Self Effects:
+
+E -25
+H +40
+
+Enemy Effects:
+
+E
+H 
+
+Input:
+
+healmid
+
+::------------------------::
+
+Heal (MAX)
+
+Restore's the player's health by draining energy
+
+Self Effects:
+
+E -60
+H +60
+
+Enemy Effects:
+
+E
+H 
+
+Input:
+
+healmax
+
+::------------------------::
+
+Getsuga Tenshou
+
+Creates a wave of highly compressed energy to murder your opponent
+
+Self Effects:
+
+E -80
+H 
+
+Enemy Effects:
+
+E
+H -60
+
+Input:
+
+getsuga
+
+::------------------------::
+
+Energy Drain
+
+Drains HP for EP
+
+Self Effects:
+
+E +40
+H -30
+
+Enemy Effects:
+
+E
+H 
+
+Input:
+
+endrain
+
+::------------------------::
+Energy Bolt
+
+Focuses your energy to put a hole in your enemy
+
+Self Effects:
+
+E -30
+H 
+
+Enemy Effects:
+
+E
+H -30
+
+Input:
+
+ebolt
+
+::------------------------::
+
+Health Drain
+
+Drains enemy HP for self HP at the cost of self EP
+
+Self Effects:
+
+E -(20 - 80)
+H +(0 - 60)
+
+Enemy Effects:
+
+E
+H -(0 - 60)
+
+Input:
+
+hdrain
+
+Note:
+EP has to be higher than 20
+
+::------------------------::
+
+Fusion Bolt
+
+Combines self HP and EP to make a dangerous cero
+
+Self Effects:
+
+E -(0 - 60)
+H -(0 - 60)
+
+Enemy Effects:
+
+E
+H -(Health + Energy drained -20)
+
+Input:
+
+fusion
+
+Note:
+EP has to be higher than 20
+Eg. Drains 40HP/EP, does (40+40=80) -20= -60 HP
+
+::------------------------::
+
+Eweca Blessing
+
+Trust yourself when you say "Godess, lead me to the moonlight" in fomoronian
+
+Self Effects:
+
+E +(0 - 60)
+H -(+20 - -40)
+
+Enemy Effects:
+
+E
+H 
+
+Input:
+
+ebless
+
+Note:
+If you receive +0 EP, +10 EP, +20 EP, you will:
++0EP = +20HP
++10EP = +10HP
++20EP = +0HP
+
+::------------------------::

@@ -1,0 +1,17 @@
+@echo off
+::call is either version, skill or display for %1
+set fileversion=1
+if "%1"=="version" set fgr_ver=%fileversion% & goto:eof
+if "%1"=="skill" goto:graphics.skill
+if "%1"=="display" goto:graphics.display
+
+echo.
+echo. This file is Grahpics.SSII Version %fileversion%. 
+pause >nul
+
+:graphics.skill
+pause
+
+:graphics.display
+pause
+

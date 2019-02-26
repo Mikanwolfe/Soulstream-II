@@ -1,0 +1,26 @@
+ 
+set/a p1.att.sv=0 
+set/a p1.hea.sv=0 
+set/a p1.mga.sv=0 
+set/a p1.res.sv=0 
+set/a p1.mgc.sv=0 
+set/a p1.fus.sv=0 
+set/a p1.sok.sv=0 
+set/a p1.lig.sv=0 
+set/a p1.enl.sv=0 
+set/a p1.dbl.sv=0 
+set/a p1.ice.sv=0 
+set/a p1.fir.sv=0 
+set/a p1.esc.sv=0 
+set/a p1.clr.sv=0 
+set/a p1.hly.sv=0 
+set/a p1.cer.sv=0 
+set/a p1.lsc.sv=0 
+set/a p1.lsp.sv=0 
+set/a p1.shm.sv=0 
+set/a p1.lac.sv=0 
+set/a p1.wow.sv=0 
+set/a p1.dkl.sv=0 
+set/a p1.wor.sv=0 
+set/a p1.wit.sv=0 
+set/a p1.arc.sv=0 

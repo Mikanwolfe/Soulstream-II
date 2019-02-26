@@ -1,0 +1,26 @@
+
+AI Remake
+
+AI > Choices:
+
+attk - choose highest skill that can finish them off, else, rest
+
+rest - if desired skill requires energy then rest. else, if the situation is bad, then attack (with increased crit rate?)
+
+heal - if health is low compared to starting health and if enemy can finish you off in one or two hits then:
+	heal mid or max, if you can't, then rest to heal
+
+all skills will be given a priority variable based on skillranks. 
+upgrade based on priority and opponent skillranks.
+
+"personalities" effect the priorities.
+
+easy can be left the way it is. (based on random variables)
+hard will have more intel - base game knowledge.
+
+hard:
+
+hard will have increased criticalrates with variable ai.criticalrate variables.
+
+crit stats.
+increased crit for users with the name "Wolfe" and maybe others. (might add a cheat file for that)

@@ -1,0 +1,98 @@
+
+crl = crit limit
+dfl = defence limit
+pnl = penetration limit
+ptl = protection limit
+bll = balance limit
+bml = balance multiplier limit
+acl = accuracy limit
+pcl = piercing limit
+
+cr = critical rate
+cm = critical multiplier
+bl = balance
+pc = piercing lv
+
+hp, mp and sp (
+hpa + hpx = hpl
+hp/hpl
+)
+this is for inside battles
+
+hp, hpa, hpx, hpl
+hp = inbattle
+hpa = base + added on 
+hpx = for items, constantly reset
+hpl = in game battle limit
+
+st (and other stats)
+
+st = use in calculations
+sta = base + added on
+stx = for items, constantly reset
+
+oringally, a prefix of c was for classes, but in the new system, classes directly add to the a suffix.
+chp = hpa + additional.
+
+adv. lu, ew, lu are no longer class restrictions - all skills are accessible but the class-specific skills
+are stronger (even cheaper?)
+
+for skills:
+
+acc = accuracy max			(value)
+bbl = base balance			(value)
+prc = piercing lv 			(value)
+crr = critical rate			(percentage float100)
+val = value, added mult 	(multiplier)
+csc = cost, soul coins		(value)
+csx = cost, experience		(value)
+dil = dilation 				(multiplier)
+dgm = damage min 			(value)
+dgx = damage max			(value)
+drm = drain min 			(value)
+drx = drain max 			(value)
+
+
+Starting 'Talents'
+The respective stat gives 3x as much as opposed to normal.
+Secondary stat gains 2x
+ie Warrior gains 750 Def and +6 Piercing Lv. (etc, etc)
+
+::------ Melee (STR)
+:: Average Damage, Low Balance, High Defence, Average Piercing Level
+---Warrior
++Will
+
+---Fighter
++Dex
+
+::------ Magic (INT)
+::High Damage, Low Defence, Average Balance, Low Piercing Level
+---Mage
++Will
+
+---Wizard
++Dex
+
+::------ Balance (DEX)
+::Average Damage, High Balance, Low Defence, Average Piercing Level
+---Ranger
++Str
+
+---Hunter
++Int
+::------ Piercing (WIL)
+::High damage, Low Balance, Average Defence, High Piercing Level
+---Reaper
++Dex
+
+---Sniper
++str
+
+::------ Critical (LUK)
+::Average Damage, Average Defence, High Balance, Low Piercing
+---Alchemist
++Critical Multiplier
+
+---Assassin
++Critical Rate

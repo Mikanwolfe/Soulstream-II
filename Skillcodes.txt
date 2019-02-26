@@ -1,0 +1,105 @@
+
+
+Skill Codes II II
+
+=============================
+NORMAL
+=============================
+ATT 		Attack
+HEA 		Heal
+FUS 		Fusion
+RES 		Rest
+=============================
+LOCKED
+=============================
+MGC	    	Magic Claw
+MGA    		Magic Arrow
+SOK	     	Sokatsui
+THN			Thunder
+DBL	    	Dire Blade
+LIG			Lightning
+DSH			Dimensional Shot
+=============================
+EWECA
+=============================
+ICE  		Ice Spear
+FRS 		Firestorm
+ELE			Elemental Wave
+ESC 		Eweca Scythe
+HLY			Holy Arrow
+=============================
+LACEDA
+=============================
+CER			Cero
+LSC			Lunar Scythe
+LSP			Lunar Spear
+LWD			Lunar Wind
+LAC			Laceda Blade
+=============================
+LUMINOUS
+=============================
+WWH			Wings of White
+DKL			Dark Light
+WWR			Wings of Rage
+DKI			Dark Infinity			
+ARC			Luminous Arc
+=============================
+
+Description of Skills
+
+assuming:
+finalcost = currentcost * val / 100 + currentcost
+therefore,
+ie. cost = 100, val = 20, cost will be: 100, 120, 144, 172, etc.
+
+::---Attack	
+
+::---Heal
+
+::---Fusion
+
+::---Rest
+
+::---Lightning
+
+::---Dimensional Shot
+
+::---Magic Claw
+
+::---Magic Arrow
+
+::---Sokatsui
+
+::---Thunder
+
+::---Dire Blade
+
+::---Ice Spear
+
+::---Firestorm
+
+::---Elemental Wave
+
+::---Eweca Scythe
+
+::---Holy Arrow
+
+::---Cero
+
+::---Lunar Scythe
+
+::---Lunar Spear
+
+::---Lunar Wind
+
+::---Laceda Blade
+
+::---Wings of White
+
+::---Dark Light
+
+::---Wings of Rage
+
+::---Dark Infinity
+
+::---Luminous Arc

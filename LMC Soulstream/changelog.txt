@@ -1,0 +1,249 @@
+
+TERM 1: YEAR 9 2013
+-[New Skills]  Added Soksatsui and Lightning
+-[New Internal System]  Buffed Getsuga
+-[New Interal System]  Added "Locked" and "Unlocked" Skills [Locked] Tag
+-[New Internal/External System]  Added new Skill and Skillset Shop.
+-[Locked]  Getsuga, Lightning, Sokatsui
+-[New Internal System]  Defence Mech rigged up, now all players have a defence rate dependant on Class/Skillset
+-[Not Operational] [New Interal/External System]  Added new "Skillsets"
+-[Not Operational] [Locked]  Eweca, Laceda and Falias Skillsets
+-[New Internal System]  New cooldown system for stronger skills.
+-[New Skills]  Ice Spear, Eweca Skill
+-[New External System] Added new profile page accessed by typing in character name
+-[New Change] Meso Currency now increased.
+-[New Change] Skillset is now known as class
+-[New Change] Rest system now altered for the different classes
+-[Name change] Eweca [Life Drain] changed to [Holy Arrow]
+-[New Skill] New skill [Mana Sheild] added for Eweca, will be used for every other class
+-[New Skill] New skill [Holy Arrow] added for Eweca, cooldown 3 turns
+-[New Skill] New skill [Genesis] added for Eweca, cooldown 5 turns
+-[Internal System Fix] Fixed up Defence penetration effectiveness
+-[Skill Fix] Made Mana sheild more expensive, the defence * 4 = energy cost.
+-[Information] Eweca class now finished, Working on Laceda class now
+-[Fully operational] Eweca Class + Skills.
+-[Now Operational] Eweca Class skills and perks. other class skills have not yet been implimented, but the perks work.
+-[Name change] Laceda [Mana Infusion] changed to [Lunar Cero]
+-[New Skill] New Skill [Lunar Cero] added for Laceda
+-[New Skill] New Skill [Lunar Brandish] added for Laceda
+-[New Skill] New Skill [Mana Sheild] added for Laceda
+-[New Skill] New Skill [Lunar Blossom] added for Laceda
+-[New External System] Loading Animations (make loading less boring)
+-[Balanced Internal System] Defence System re - configured
+-[New Internal/External System] New test mode for testing purposes. when starting up the game, the game will ask if you want to run it in test mode.
+-[New Class] Special class [Test] only avaliable in test mode. [Test] allows the use of all skills across all of the classes (most, eg, manasheild for eweca and laceda are the same)
+-[Bugfix] Fixed "System cannot find ....] Bug with the defence mech. Apparently, it was just the ability cooldown system messing about. FINALLY.
+-[New Skill] New Skill [Laceda Blade] added for Laceda
+-[Now Operational] Laceda Class Now fully operational. On to Falias now.
+-[Fixed Internal System] Re - Made Ability cooldown system. Works waaaayy better now.
+-[New Internal System] Test presets implimented for test mode. edit presets in "testpresets.bat"
+-[New Skill] New skill [Falias Smash] added.
+-[New Skill] New skill [Falias Heal] added.
+-[New Skill] New skill [Falias Sheild] added.
+-[New Skill] New skill [Falias Brandish] added.
+-[Info] Falias Class completed, all classes completed. YESH!
+-[New Internal System] New EXP System
+-[New Internal System] New DXP System
+-[New Internal System] New Usage for EXP (Ranking)
+-[New Internal System] Re-Touched Death Systems
+-[New External Design] LMC Screen touched up :)
+-[New Internal System] New Skill Rank System, F-1 System adaptation.
+-[New Internal System] New Store Section for Skill Ranks
+-[New Internal System] New SkillRank Decoder
+-[New Internal System] New Store Functions
+-[New External System] Changed Store Design and Function
+-[New Internal System] Attack Damage System Re-Made to work with Rank Systems
+-[New Internal System] Attack Decoder Finished
+-[New Internal System] Fusion Decoder Finished
+-[New Internal System] Heal Decoder Finished
+-[New Internal System] Rest Decoder Finished
+-[New Internal System] Sokatsui Decoder Finished
+-[New Internal System] Lightning Decoder Finished
+-[New Internal System] New Decoder System format, cutting down decoding time. (the time it takes to make a decoder)
+-[New Internal System] HDrain Decoder Finished, new Decoder Format.
+-[Fixed Internal System] Heal[MAX] Calculations made to adapt to new rank system
+-[New Internal System] New Decoder Function Format, Functions working great, saves space and time.
+
+
+TERM 2 : YEAR 9 2013
+
+18/4/13 THURSDAY
+-[INFO] Finally Back from my holidays, back to full gear again.
+-[New External System] New Store Format for skills, store format is relatively simple though.
+-[New Internal System] Attack Decoder Function Finished
+-[New Internal System] Sokatsui Decoder Function Finished
+-[New Internal System] Getsuga Decoder Function Finished
+-[Fixed Internal System] Store made to work with the new rank system
+-[Fixed Internal System] Attack Calculations made to adapt to new rank system
+-[Fixed Internal System] Sokatsui Calculations made to adapt to new rank system
+-[Fixed Internal System] Getsuga Calculations made to adapt to new rank system
+-[New Internal System] Lightning Decoder Function Finished
+
+
+19/4/13 FRIDAY
+-[Fixed Internal System] Lightning Calculations made to adapt to the new rank system
+-[Fixed External System] Skill Rank Store format changed to adapt with normal skill ranking upgrades
+-[New Internal System] Added new override for test class, test class now has no cooldowns.
+
+
+22/4/13 MONDAY Alban Eiler :/
+-[Fixed Internal System] Removed the old loading system, the visuals would take longer to load than the game itself.
+-[New External System] New Title screen! It's not too good but it will do for now.
+-[New Internal System] Heal Decoder function finished.
+-[New Internal System] Rest Skill modifier finished.
+-[New Internal System] Fusion Skill modifier finished.
+
+23/4/13 TUESDAY Beltane
+-[New Internal System] Laceda Store finished
+-[Bugfix] Fixed a bug with the title screen
+-[New Internal System] New Ice Spear Decoder finished
+-[New Internal System] All SkillSet Variables finished
+-[New Internal System] New store format for skills, completely taking over the old systems.
+-[Fixed Internal System] Fixed the old storeskill decoders and replaced+modified them to work with the new skillranks.
+
+29/4/13 Monday Alban Eiler
+-[New Internal System] Eweca Mana Sheild decoder finished.
+-[New Internal System] Holy Arrow Decoder finished.
+
+6/5/13 Monday Alban Eiler
+-[New Internal System] Eweca Genesis decoder finished
+-[New Internal System] Eweca Genesis decoder function finished.
+-[New Internal System] Admin class skillstore finished, =P
+
+7/5/13 Beltane
+-[New Internal System] Health Drain skill modifier changed to work with the ranking system
+-[New Internal System] Ice Spear skill modifier added
+-[New Internal System] Mana shield skill modifier added
+-[New Internal System] Holy arrow skill modiier added
+-[New Internal System] Genesis skill modifier added
+-[New Internal System] Cero skill modifier added
+-[New Internal System] lunar brandish skill modifier added
+-[New Internal System] laceda blossom skill modifier added
+-[New Internal System] Laceda Blade skill modifier added
+-[New Internal System] Falias Smash skill modifier added
+-[New Internal System] Falias Shield modifier added
+-[New Internal System] Falias Brandish skill modifier added
+-[New Internal System] Falias Seal skill modifier added
+-[New Internal System] Wings of White skill modifier added
+-[New Internal System] Black Light skill modifier added
+-[New Internal System] luminous shield skill modifier added
+-[New Internal System] Wings of Rage skill modifier added
+-[New Internal System] Luminous Arc skill modifier added
+
+8/5/13 Alban Heruin
+-[New Internal System] Complete overhaul for p2 storesys complete. won't go into details, too many :/
+
+9/5/13
+-[New Skill] Wings of White for P1/P2 added for admin class Luminous
+
+10/5/13 Alban Elved
+-[New Skill] Black light for P1/P2 added for admin class Luminous
+-[Fix] Messed around with Wings of White and Black Light to balance the skills out
+-[Changed Internal System] Energy/Health/Defence Limits increased. Eweca H1500 E3000 D40 Laceda H3000 E2000 D30 Falias H5000 E3000 Luminous H3000 E8000 D30
+-[Changed Internal System] Instead of giving +10 for stat increases, the shop now gives +10%
+-[Changed Internal System] Losing gives G100 instead of G50
+-[Changed Internal System] Losing gives 75XP instead of 10XP and Winning gives you 30XP instead of 75XP because losing = mistake and you learn from mistakes. More XP! (gives you reason to lose)
+
+13/5/13 Alban Eiler
+-[Changed Internal System] Fixed "lag" caused by loading the game - the game is actually loading, added a loading screen to cover the "lag"
+
+17/5/13 Alban Elved
+-[New Skill] Wings of Rage addef for Luminous
+-[Changed Internal System] Stats now changed when starting a class, classes are now a tad bit weaker when purchased
+-[Changed Internal System] The [Normal] Class now has 0.5 Defpen value to make up for the 15 def limit.
+-[Changed Internal System] [Normal] Class now has 2.0 defrate instead of 1.5
+-[New Skill] Lumionus Arc Finished for Luminous Class
+
+31/5/13 Alban Elved 
+-[Info] After D9, working again
+-[New Internal System] Crashing really annoying? Autosave function added. simple as that.
+-[New Internal System] Laceda Lunar Cero decoder added
+-[New Internal System] Laceda Lunar Cero decoder function added.
+-[New Internal System] Laceda Brandish decoder added
+-[New Internal System] Laceda Brandish decoder function added.
+-[New Internal System] If attack rank is over 5, damage/4 = energy consumed. no more OP crits.
+-[Fixed Internal System] Autosaved Fixed, autosave should work properly now.
+-[New] Abouts page finally working. Credits, info on LMC and Soulstream.
+-[Fixed Internal System] Autosaved Fixed again... Also removed some variables that aren't needed
+-[Bugfix] Store1 Shop system fixed - bug where if you didnt have enough gold/exp for a skill the game would crash
+-[New Internal System] Added DefCost Variable, Def now costs +100 more every time you buy def.
+-[Fixed Internal System] Now buying/activating a class will no longer give you +5def
+-[Fixed Internal System] Ice Skill energy consumption increased
+
+1/6/13, 2/5/13 Samhain, Imbolic
+-[New Internal System] Laceda Cero Skill Decoder added
+-[New Internal System] Laceda Cero Skill Decoder Function added
+-[New Internal System] Laceda Brandish Skill Decoder added
+-[New Internal System] Laceda Brandish Skill Decoder Function added
+-[New Internal System] Laceda Blossom Skill Decoder added
+-[New Internal System] Laceda Blossom Skill Decoder Function added
+-[New Internal System] Laceda Blade Skill Decoder added
+-[New Internal System] Laceda Blade Skill Decoder Function added
+-[New Internal System] Falias Smash Skill Decoder added
+-[New Internal System] Falias Smash Skill Decoder Function added
+-[New Internal System] Falias Brandish Skill Decoder added
+-[New Internal System] Falias Brandish Skill Decoder Function added
+-[New Internal System] Falias Seal Skill Decoder added
+-[New Internal System] Falias Seal Skill Decoder Function added
+-[New Internal System] Luminous Wings of White Skill Decoder added
+-[New Internal System] Luminous Wings of White Skill Decoder Function added
+-[New Internal System] Luminous Black Light Skill Decoder added
+-[New Internal System] Luminous Black Light Skill Decoder Function added
+-[New Internal System] Luminous Luminous Shield Skill Decoder added
+-[New Internal System] Luminous Luminous Shield Skill Decoder Function added
+-[New Internal System] Luminous Luminous Arc Skill Decoder added
+-[New Internal System] Luminous Lumionus Arc Skill Decoder Function added
+-[Bugfix] Shop bugs fixed. Autosave tweaked.
+
+3/6/13 Alban Eiler
+-[Bugfix] Small bugfixes here and there.
+-[Fixed Skill] Ice Spear buffed
+-[Fixed Internal System] Skill Starting ranks lowered.
+-[Fixed Internal System] Defence System Tweaked
+-[New Internal System] There are now animations for purchasing a blessing (that doesn't sound right)
+-[Fixed Internal System] Purchasing a class/blessing (whatever...) now requires 400 EXP instead of 400 GOLD
+-[Fixed Internal System] Gold and EXP calculations  fixed and now displayed on death.
+-[Bugfix] lots of small bugfixes in the shops.
+
+
+5/6/13 Alban Heruin
+GAME RELEASED
+0.1 and 0.2
+
+6/6/13 Lughnasda
+-[Info] Patch 1.0 - The AI update.
+-[Info] WORKING ON AI. going really well (not going to record. WAAAAAAY too much)
+
+16/6/13
+-[Comment] I've done a lot for the AIs, hms, im probably gonna start recording my changes (don't know why i stopped though)
+-[New External System] Decodergen fixed, adopted for new skills and whatnot.
+
+17/6/13 Alban Eiler
+-[New Internal System] Tutorial added for first-timers
+
+18/6/13 Beltane
+-[New Internal System] New AI parameters replacing the old ones for the normal SRK store.
+
+19/6/13
+-[New Internal System] AI Parameters for HARD in NORMALCLASS SRK
+-[Changed Internal System] Attack nerfed. if skillrank is above or equal to 10 (rank 7), attack will no longer crit
+
+28/6/13
+-No longer using tags. too confusing
+- Falias, Eweca and laceda AI storechoices finished, easy left alone.
+- Tweaked AI a bit, not sure how it will turn out though.
+- Released 1.1!~ Have fun with that.
+- UPDATE INFO: Next update will be a statistics (stats) update. Str, Int, Luck, Will and Soul! Look forward to that.
+
+
+: TERM 3, YEAR 9 2013
+
+
+30/7/13
+- Holidays have ended 2 or so weeks ago, i was working on another game.
+- Gonna start working on Soulstream again, i have a few ideas for the AI.
+- Remaking AI system, it will take some time before the game is up and running again.
+
+
+-[Working on] New Rank Systems, Decoders and brand-new attack and damage calulations. New Rank System will override the old skill purchase systems, please be patient for updates.
+-[New Concept] I might impliment statistics and items which might include potions for recovery or status effects, maybe even armour or weapon modifiers.

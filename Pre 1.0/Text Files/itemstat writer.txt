@@ -1,0 +1,12 @@
+
+for %%G in (p1,p2) do (
+	for /l %%H in (1,1,9) do (
+		echo set itemcall=!%%G.itemslot_%%H! >> output.txt
+		echo call:funct.itemstat >> output.txt
+		::echo for %%%%I in (st,dx,in,lk,wl,df,dp,bl,hp,mp,pv) do ( >> output.txt
+		echo set %%G.item_%%H.%%I=!item%%%%I! >> output.txt
+		echo ) >> output.txt
+		)
+	)
+)
+pause

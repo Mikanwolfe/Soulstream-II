@@ -1,0 +1,153 @@
+::Edit for test mode. 
+:: leave the "set/a"s please. 
+:: Do not touch if you do not know what it does 
+ 
+set/a p1.health = 100 
+set/a p1.set.hl = 100 
+set/a p2.health = 100 
+set/a p2.set.hl = 100 
+ 
+set/a p1.energy = 100 
+set/a p1.set.en = 100 
+set/a p2.energy = 100 
+set/a p2.set.en = 100 
+ 
+set/a p1.def =    15 
+set/a p1.set.df = 15 
+set/a p2.def =    15 
+set/a p2.set.df = 15 
+ 
+set/a p1.exp=100000 
+set/a p2.exp=100000 
+ 
+set/a score1=100000 
+set/a score2=100000 
+ 
+set/a p1.deflimit = 15 
+set/a p2.deflimit = 15 
+set/a p1.hllimit = 1000 
+set/a p2.hllimit = 1000 
+set/a p1.enlimit = 1000 
+set/a p2.enlimit = 1000 
+ 
+set/a p1.defpen = 5 
+set/a p2.defpen = 5 
+set/a p1.defrate = 20 
+set/a p2.defrate = 20 
+ 
+set/a p1.lmc.a=0 
+set/a p2.lmc.a=0 
+set/a p1.ews.a=0 
+set/a p2.ews.a=0 
+set/a p1.las.a=0 
+set/a p2.las.a=0 
+set/a p1.fas.a=0 
+set/a p2.fas.a=0 
+set/a p1.test.a=0 
+set/a p2.test.a=0 
+ 
+set/a p1.att.sv=5 
+set/a p1.att.sr=17 
+set/a p2.att.sv=5 
+set/a p2.att.sr=17 
+set/a p1.fus.sv=4 
+set/a p1.fus.sr=17 
+set/a p2.fus.sv=4 
+set/a p2.fus.sr=17 
+set/a p1.hla.sv=3 
+set/a p1.hla.sr=17 
+set/a p2.hla.sv=3 
+set/a p2.hla.sr=17 
+set/a p1.res.sv=5 
+set/a p1.res.sr=17 
+set/a p2.res.sv=5 
+set/a p2.res.sr=17 
+ 
+set/a p1.sok.sv=7 
+set/a p1.sok.sr=17 
+set/a p2.sok.sv=7 
+set/a p2.sok.sr=17 
+set/a p1.lig.sv=10 
+set/a p1.lig.sr=17 
+set/a p2.lig.sv=10 
+set/a p2.lig.sr=17 
+set/a p1.hdr.sv=10 
+set/a p1.hdr.sr=17 
+set/a p2.hdr.sv=10 
+set/a p2.hdr.sr=17 
+set/a p1.get.sv=20 
+set/a p1.get.sr=17 
+set/a p2.get.sv=20 
+set/a p2.get.sr=17 
+ 
+set/a p1.ice.sv=10 
+set/a p1.ice.sr=17 
+set/a p2.ice.sv=10 
+set/a p2.ice.sr=17 
+set/a p1.msh.sv=10 
+set/a p1.msh.sr=17 
+set/a p2.msh.sv=10 
+set/a p2.msh.sr=17 
+set/a p1.hly.sv=20 
+set/a p1.hly.sr=17 
+set/a p2.hly.sv=20 
+set/a p2.hly.sr=17 
+set/a p1.gen.sv=30 
+set/a p1.gen.sr=17 
+set/a p2.gen.sv=30 
+set/a p2.gen.sr=17 
+ 
+set/a p1.llc.sv=10 
+set/a p1.llc.sr=17 
+set/a p2.llc.sv=10 
+set/a p2.llc.sr=17 
+set/a p1.lbr.sv=15 
+set/a p1.lbr.sr=17 
+set/a p2.lbr.sv=15 
+set/a p2.lbr.sr=17 
+set/a p1.llb.sv=20 
+set/a p1.llb.sr=17 
+set/a p2.llb.sv=20 
+set/a p2.llb.sr=17 
+set/a p1.lbl.sv=30 
+set/a p1.lbl.sr=17 
+set/a p2.lbl.sv=30 
+set/a p2.lbl.sr=17 
+ 
+set/a p1.smh.sv=10 
+set/a p1.smh.sr=17 
+set/a p2.smh.sv=10 
+set/a p2.smh.sr=17 
+set/a p1.fsh.sv=15 
+set/a p1.fsh.sr=17 
+set/a p2.fsh.sv=15 
+set/a p2.fsh.sr=17 
+set/a p1.fbr.sv=20 
+set/a p1.fbr.sr=17 
+set/a p2.fbr.sv=20 
+set/a p2.fbr.sr=17 
+set/a p1.fsl.sv=30 
+set/a p1.fsl.sr=17 
+set/a p2.fsl.sv=30 
+set/a p2.fsl.sr=17 
+ 
+set/a p1.wwt.sv=10 
+set/a p1.wwt.sr=17 
+set/a p2.wwt.sv=10 
+set/a p2.wwt.sr=17 
+set/a p1.blk.sv=15 
+set/a p1.blk.sr=17 
+set/a p2.blk.sv=15 
+set/a p2.blk.sr=17 
+set/a p1.lsh.sv=15 
+set/a p1.lsh.sr=17 
+set/a p2.lsh.sv=15 
+set/a p2.lsh.sr=17 
+set/a p1.wrg.sv=20 
+set/a p1.wrg.sr=17 
+set/a p2.wrg.sv=20 
+set/a p2.wrg.sr=17 
+set/a p1.arc.sv=30 
+set/a p1.arc.sr=17 
+set/a p2.arc.sv=30 
+set/a p2.arc.sr=17 
